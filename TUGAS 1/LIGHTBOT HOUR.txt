@@ -1,0 +1,552 @@
+			GAME LIGHTBOT HOUR
+
+1. "STAGE BASICS"
+     
+	1-1 :
+	 
+		1. Maju 1 petak
+	 
+		2. Maju 1 petak
+	 
+		3. Nyalakan lampu
+
+     
+	1-2 :
+	 
+		1. Maju 1 petak
+	 
+		2. Maju 1 petak
+	 
+		3. Hadap kiri
+	 
+		4. Maju 1 petak
+	 
+		5. Maju 1 petak
+	 
+		6. Hadap kiri
+	 
+		7. Maju 1 petak
+	 
+		8. Maju 1 petak
+	 
+		9. Nyalakan lampu
+
+     
+	1-3 :
+	 
+		1. Lompat 1 petak
+	 
+		2. Hadap kanan
+	 
+		3. Lompat 1 petak
+	 
+		4. Hadap kanan
+	 
+		5. Lompat 1 petak
+	 
+		6. Nyalakan lampu
+
+     
+	1-4 :
+	 
+		1. Maju 1 petak
+	 
+		2. Maju 1 petak 
+	 
+		3. Hadap kiri
+	 
+		4. Lompat 1 petak
+	 
+		5. Lompat 1 petak
+	 
+		6. Lompat 1 petak
+	 
+		7. Lompat 1 petak
+ 	 
+		8. Nyalakan lampu
+
+     
+	1-5 :
+	 
+		1. Nyalakan lampu
+	 
+		2. Lompat 1 petak
+	 
+		3. Maju 1 petak
+	 
+		4. Hadap kiri
+	 
+		5. Maju 1 petak
+	 
+		6. Nyalakan lampu
+	 
+		7. Lompat 1 petak
+	 
+		8. Hadap kiri
+	 
+		9. Maju 1 petak
+	
+		10. Maju 1 petak
+	
+		11. Nyalakan lampu
+
+     
+	1-6 :
+
+		1. Lompat 1 petak
+	 
+		2. Hadap kiri
+
+	 	3. Maju 1 petak
+	
+	4. Lompat 1 petak
+	 
+		5. Nyalakan lampu
+	 
+		6. Hadap kiri
+	 
+		7. Maju 1 petak
+	 
+		8. Maju 1 petak
+	 
+		9. Hadap kanan
+	
+		10. Lompat 1 petak
+	
+		11. Maju 1 petak
+	
+		12. Nyalakan lampu
+
+     
+	1-7 :
+	 
+		1. Maju 1 petak
+	 
+		2. Hadap kiri
+	 
+		3. Lompat 1 petak
+	 
+		4. Nyalakan lampu
+	 
+		5. Lompat 1 petak
+	 
+		6. Nyalakan lampu
+	 
+		7. Hadap kiri
+	 
+		8. Lompat 1 petak
+	 
+		9. Nyalakan lampu
+	
+		10. Hadap kiri
+	
+		11. Lompat 1 petak
+	
+		12. Nyalakan lampu
+
+     
+	1-8 :
+	 
+		1. Lompat 1 petak
+	 
+		2. Lompat 1 petak
+	 
+		3. Hadap kanan
+	 
+		4. Maju 1 petak
+	 
+		5. Hadap kiri
+	 
+		6. Lompat 1 petak
+	 
+		7. Nyalakan lampu
+	 
+		8. Hadap kiri
+	 
+		9. Maju 1 petak
+	
+		10. Nyalakan lampu
+	
+		11. Lompat 1 petak
+	
+		12. Nyalakan lampu
+
+
+
+2. "STAGE PROCEDURES"
+     
+	2-1 :
+	 
+		1. Panggil P1
+	 
+		2. Nyalakan lampu
+	 
+		3. Hadap kanan
+	 
+		4. Panggil P1
+	 
+		5. Nyalakan lampu
+	 
+		6. Hadap kanan
+	 
+		7. Panggil P1
+	 
+		8. Nyalakan lampu
+	
+		Isi P1 :
+	 
+			1. Maju 1 petak
+	 
+			2. Maju 1 petak
+	 
+			3. Maju 1 petak
+
+     
+	2-2 :
+	 
+		1. Panggil P1
+	 
+		2. Panggil P1
+	 
+		3. Panggil P1
+	 
+		4. Panggil P1
+	 
+		5. Nyalakan lampu
+	
+		Isi P1 :
+	 
+			1. Maju 1 petak
+	 
+			2. Hadap kiri
+	 
+			3. Maju 1 petak
+	 
+			4. Hadap kanan
+
+     
+	2-3 :
+	 
+		1. Panggil P1
+	 
+		2. Hadap kiri
+	 
+		3. Lompat 1 petak
+	 
+		4. Hadap kiri
+	 
+		5. Panggil P1
+	 
+		6. Hadap Kanan
+	 
+		7. Lompat 1 petak
+	 
+		8. Hadap kanan
+	 
+		9. Panggil P1
+	
+		Isi P1 :
+	 
+			1. Maju 1 petak
+	 
+			2. Maju 1 petak
+	 
+			3. Nyalakan lampu
+
+     
+	2-4 :
+	 
+		1. Panggil P1
+	 
+		2. Hadap kanan
+	 
+		3. Panggil P2
+	 
+		4. Panggil P1
+	 
+		5. Hadap kiri
+	 
+		6. Panggil P2
+	 
+		7. Hadap Kiri
+	 
+		8. Hadap kiri
+	 
+		9. Panggil P1
+	
+		Isi P1 :
+	 
+			1. Maju 1 petak
+	 
+			2. Nyalakan lampu
+	 
+			3. Maju 1 petak
+	 
+			4. Nyalakan lampu
+	 
+			5. Maju 1 petak
+	 
+			6. Nyalakan lampu
+	 
+			7. Maju 1 petak
+	 
+			8. Nyalakan lampu
+	
+		Isi P2 :
+	 
+			1. Maju 1 petak
+	 
+			2. Maju 1 petak
+	 
+			3. Hadap kanan
+
+     
+	2-5 :
+	 
+		1. Panggil P1
+	 
+		2. Panggil P2
+	 
+		3. Hadap Kanan
+	 
+		4. Panggil P1
+	 
+		5. Panggil P2
+	 
+		6. Hadap kanan
+	 
+		7. Panggil P1
+	
+		Isi P1 :
+	 
+			1. Nyalakan lampu
+	 
+			2. Lompat 1 Petak
+	 
+			3. Nyalakan lampu
+	 
+			4. Lompat 1 Petak
+	 
+			5. Nyalakan lampu
+	 
+			6. Lompat 1 Petak
+	 
+			7. Nyalakan lampu
+	 
+			8. Hadap Kiri
+	
+		Isi P2 :
+	 
+			1. Lompat 1 petak
+	 
+			2. Hadap Kiri
+	 
+			3. Maju 1 petak
+	 
+			4. Maju 1 petak
+	 
+			5. Hadap kanan
+	 
+			6. Maju 1 petak
+
+     
+	2-6 :
+	 
+		1. Panggil P1
+	 
+		2. Hadap kiri
+	 
+		3. Maju 1 petak
+	 
+		4. Hadap kiri
+	 
+		5. Panggil P1
+	 
+		6. Hadap kanan
+	 
+		7. Lompat 1 petak
+	 
+		8. Lompat 1 petak
+	 
+		9. Hadap kanan
+	
+		10. Panggil P1
+	
+		11. Hadap kiri
+	
+		12. Panggil P2
+	
+		Isi P1 :
+	 
+			1. Nyalakan Lampu
+	 
+			2. Maju 1 petak
+	 
+			3. Nyalakan lampu
+	 
+			4. Lompat 1 petak
+	 
+			5. Lompat 1 petak
+	 
+			6. Nyalakan Lampu
+	 
+			7. Maju 1 petak
+	 
+			8. Nyalakan lampu
+	
+		Isi P2 :
+	 
+			1. Maju 1 petak
+	 
+			2. Hadap kiri
+	 
+			3. Panggil P1
+
+
+
+3. "STAGE LOOPS"
+     
+	3-1 :
+	 
+		1. Panggil P1
+	
+		Isi P1 :
+	 
+			1. Maju 1 petak
+	 
+			2. Nyalakan lampu
+	 
+			3. Panggil P1
+
+   
+  
+	3-2 :
+	 
+		1. Panggil P1
+	
+		Isi P1 :
+	 
+			1. Lompat 1 petak
+	 
+			2. Nyalakan lampu
+	 
+			3. Panggil P1
+
+     
+
+	3-3 :
+	 
+		1. Panggil P1
+	
+		Isi P1 :
+	 
+			1. Maju 1 petak
+	 
+			2. Nyalakan Lampu
+	 
+			3. Hadap kiri
+	 
+			4. Maju 1 petak
+	 
+			5. Lompat 1 petak
+	 
+			6. Nyalakan lampu
+	 
+			7. Lompat 1 petak
+	 
+			8. Panggil P1
+
+     
+
+	3-4 :
+	 
+		1. Panggil P1
+	
+		Isi P1 :
+	 
+			1. Nyalakan lampu
+	 
+			2. Maju 1 petak
+	 
+			3. Hadap kiri
+	 
+			4. Maju 1 petak
+	 
+			5. Hadap kanan
+	 
+			6. Panggil P1
+
+     
+	
+	3-5 :
+	 
+		1. Panggil P1
+	
+		Isi P1 :
+	 
+			1. Nyalakan lampu
+	 
+			2. Lompat 1 petak
+	 
+			3. Nyalakan lampu
+	 
+			4. Maju 1 petak
+	 
+			5. Nyalakan Lampu
+	 
+			6. Maju 1 petak
+	 
+			7. Nyalakan lampu
+	 
+			8. Panggil P2
+	
+			Isi P2 :
+	 
+				1. Lompat 1 petak
+	 
+				2. Hadap kiri
+	 
+				3. Panggil P1
+
+     
+	
+	3-6 :
+	 
+		1. Panggil P1
+	
+		Isi P1 :
+	 
+			1. Panggil P2
+	 
+			2. Hadap kanan
+	 
+			3. Maju 1 petak
+	 
+			4. Hadap Kiri
+	 
+			5. Lompat 1 petak
+	 
+			6. Hadap kiri 
+	 
+			7. Panggil P1
+	
+			Isi P2 :
+	 
+				1. Nyalakan lampu
+	 
+				2. Lompat 1 petak
+	 
+				3. Hadap kiri
+	 
+				4. Maju 1 petak
+	 
+				5. Nyalakan Lampu
+	 
+				6. Hadap kanan
+	 
+				7. Lompat 1 petak
+
+
+		~~~~ THE END ~~~~
+	 
+8. Lompat 1 petak
